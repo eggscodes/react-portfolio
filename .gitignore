@@ -1,3 +1,5 @@
+.DS_STORE
+
 # Logs
 logs
 *.log
@@ -57,3 +59,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# ides
+.idea
+*.iml
+.vscode
+
+build/
